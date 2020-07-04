@@ -54,8 +54,8 @@
 
   // Setting these to false, defaults to emptyDirs
   enablePersistence: {
-    prometheus: false,
-    grafana: false,
+    prometheus: true,
+    grafana: true,
   },
 
   // Grafana "from" email
